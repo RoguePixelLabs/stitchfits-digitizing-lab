@@ -2,7 +2,7 @@
 
 Digitizing Lab is an optional Windows add-on for turning SVGs and raster artwork into editable embroidery. Review colors, preview stitches, then open the design in Stitchfits to refine it.
 
-[**Download Digitizing Lab v0.2.19 for Windows**](https://github.com/RoguePixelLabs/stitchfits-digitizing-lab/releases/download/v0.2.19/StitchFits-Digitizing-Lab-Windows-x64.zip) · [Release notes and source](https://github.com/RoguePixelLabs/stitchfits-digitizing-lab/releases/tag/v0.2.19)
+[**Download Digitizing Lab v0.2.23 for Windows**](https://github.com/RoguePixelLabs/stitchfits-digitizing-lab/releases/download/untagged-82ff67ec049e82c7fc20/StitchFits-Digitizing-Lab-Windows-x64.zip) · [Release notes and source](https://github.com/RoguePixelLabs/stitchfits-digitizing-lab/releases/tag/v0.2.23)
 
 1. Extract the whole ZIP.
 2. Run **Install Digitizing Lab.cmd**.
